@@ -1,0 +1,2 @@
+# Бесплатные тайловые 2D карты сервиса [http://localhost/maps2d/](http://localhost/maps2d/).
+## Карты редактируются в программе [Tiled](https://www.mapeditor.org/) и загружаются в личный кабинет сервиса
