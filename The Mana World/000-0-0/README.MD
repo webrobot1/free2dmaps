@@ -1,0 +1,2 @@
+## Карта редактируется в программе [Tiled](https://www.mapeditor.org/) и загружаются в личный кабинет сервиса [http://my-fantasy.ru/maps2d/](http://my-fantasy.ru/maps2d/)
+![preview](./preview.png?raw=true "Preview")
